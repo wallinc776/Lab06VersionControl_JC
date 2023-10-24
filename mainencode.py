@@ -1,3 +1,4 @@
+# Justin Colon
 # Takes an exclusively numeric string and returns a string with digit shifted up by 3.
 def encode(password):
     encoded_string = ""
@@ -14,7 +15,7 @@ def encode(password):
     return encoded_string
 
 
-# Temp function to define "decode" on line 30
+# Temp function to define "decode" on line 31
 def decode(encoded_password):
 
 
